@@ -1,0 +1,9 @@
+{
+  "_fv": 79,
+  "_type": "function",
+  "definition": {
+    "code": "/setblock -15 74 14 barrel{LootTable:\"repo:blocks/librarybarrel_1\"} replace\n/setblock -17 74 11 barrel{LootTable:\"repo:blocks/librarybarrel_1\"} replace",
+    "name": "refresh_barrels",
+    "namespace": "minecraft"
+  }
+}

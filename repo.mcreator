@@ -1,0 +1,78 @@
+{
+  "mod_elements": [
+    {
+      "name": "Librarybarrel1",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "librarybarrel_1",
+      "metadata": {
+        "files": [
+          "src/main/data/repo/loot_table/blocks/librarybarrel_1.json"
+        ]
+      }
+    },
+    {
+      "name": "RefreshBarrels",
+      "type": "function",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "refresh_barrels",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/function/refresh_barrels.mcfunction"
+        ]
+      }
+    },
+    {
+      "name": "Createdesk",
+      "type": "function",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "createdesk",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/function/createdesk.mcfunction"
+        ]
+      },
+      "path": "~/functions"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "functions",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "repo",
+    "modName": "REPO",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.21.8",
+    "modElementsPackage": "net.mcreator.repo"
+  },
+  "mcreatorVersion": 202500345720
+}
